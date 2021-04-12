@@ -1,0 +1,13 @@
+C:\Users\Blake\Desktop\MCA\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+C:\Users\Blake\Desktop\MCA\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+C:\Users\Blake\Desktop\MCA\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+C:\Users\Blake\Desktop\MCA\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+C:\Users\Blake\Desktop\MCA\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+C:\Users\Blake\Desktop\MCA\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\Blake\Desktop\MCA\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache
